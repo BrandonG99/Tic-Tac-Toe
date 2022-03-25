@@ -1,5 +1,7 @@
 # Tic-Tac-Toe App
 
+![Tic-Tac-Toe Project Image](https://www.brandonguard.com/images/portfolio/PortfolioImages/Tic-Tac-Toe/Tic-Tac-Toe2-min.png)
+
 > Enjoy a game of Tic-Tac-Toe with a friend or family member in digital format with this fun and easy to use app!
 
 ---
